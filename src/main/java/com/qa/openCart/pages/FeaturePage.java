@@ -1,10 +1,11 @@
 package com.qa.openCart.pages;
 
-public class TestingPage {
+public class FeaturePage {
 
 	public static void main(String[] args) {
-String s="Testing";
-String t="Selenium";
+		
+		int i=10;
+		int j=20;
 		
 	}
 }
