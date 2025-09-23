@@ -20,14 +20,14 @@
 	</test>
 	
 	<!--<test name="Accounts Page Test">
-	<parameter name="browser" value="firefox"></parameter>
+	<parameter name="browser" value="chrome"></parameter>
 		<classes>
 			<class name="com.qa.openCart.tests.AccountsPageTest" />
 		</classes>
 	</test>
 
 	<test name="Search Test">
-	<parameter name="browser" value="edge"></parameter>
+	<parameter name="browser" value="chrome"></parameter>
 		<classes>
 			<class name="com.qa.openCart.tests.SearchTest" />
 		</classes>
